@@ -92,7 +92,7 @@ def cambiar_velocidad():
     elif speed==250:
         speed=125
         snake_color="#FF9900"
-        hud_pb.configure(text="X4")
+        hud_pb.configure(text="X5")
     elif speed==125:
         speed=500
         snake_color="#B7FF00"
